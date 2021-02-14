@@ -1,0 +1,24 @@
+body{
+    background:#fefefe;
+}
+
+section{
+    background: #fff;
+}
+
+h1{
+    color:blue;
+}
+
+p{
+    color:#1d1285;
+}
+
+h2{
+    color:#1460AA;
+    background:tomato;
+}
+
+.hotpink-header{
+    color:hotpink;
+}
